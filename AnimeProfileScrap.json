@@ -1,0 +1,12 @@
+{
+        "mainContainer" : "div.heromain",
+        "coverPhotoContainer" : "div.herobg img",
+        "profilePhotoContainer" : "div.chapterpic img",
+        "titleContainer" : "h1",
+        "ratingContainer" : "div.heroslidico",
+        "stateContainer" : "div.butns button.btn1",
+        "descriptionContainer" : "p",
+        "dateContainer" : "nav[aria-label=breadcrumb]:eq(1) li.breadcrumb-item",
+        "genresContainer" : "nav[aria-label=breadcrumb]:eq(0) li.breadcrumb-item",
+        "sizeContainer" : "col-item"
+}

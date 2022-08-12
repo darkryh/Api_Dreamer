@@ -1,5 +1,4 @@
 {
-        "id" : 1001,
         "classList" : "col-item",
         "titleContainer" : "div.chapterdetails h1",
         "coverContainer" : "div.animedtlsmain div.animeimgdiv img",

@@ -1,11 +1,10 @@
 {
-        "mainContainer" : "div.heromain",
-        "coverPhotoContainer" : "div.herobg img",
+        "coverPhotoContainer" : "div.heromain div.herobg img",
         "profilePhotoContainer" : "div.chapterpic img",
-        "titleContainer" : "h1",
-        "ratingContainer" : "div.heroslidico",
-        "stateContainer" : "div.butns button.btn1",
-        "descriptionContainer" : "p",
+        "titleContainer" : "div.heromain h1",
+        "ratingContainer" : "div.heromain div.heroslidico",
+        "stateContainer" : "div.heromain div.butns button.btn1",
+        "descriptionContainer" : "div.heromain p",
         "dateContainer" : "nav[aria-label=breadcrumb]:eq(1) li.breadcrumb-item",
         "genresContainer" : "nav[aria-label=breadcrumb]:eq(0) li.breadcrumb-item",
         "sizeContainer" : "col-item"

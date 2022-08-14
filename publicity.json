@@ -1,15 +1,13 @@
 {
         [
-        {
-                "publicity" : {
-                        "id" : 500,
-                        "title" : "¡Versión Testing!",
-                        "content" : "Testing Data.",
-                        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
-                        "icon" : null,
-                        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
-                        "tags" : ["Oficial","Actualización","Comunicado"]
-                }
+        "publicity" : {
+        "id" : 500,
+        "title" : "¡Versión Testing!",
+        "content" : "Testing Data.",
+        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
+        "icon" : null,
+        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
+        "tags" : ["Oficial","Actualización","Comunicado"]
         }
         ]               
 }

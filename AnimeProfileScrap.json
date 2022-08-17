@@ -4,7 +4,7 @@
         "titleContainer" : "div.heromain h1",
         "ratingContainer" : "div.heromain div.heroslidico",
         "stateContainer" : "div.heromain div.butns button.btn1",
-        "descriptionContainer" : "div.heromain p",
+        "descriptionContainer" : "div.heromain ps",
         "dateContainer" : "nav[aria-label=breadcrumb]:eq(1) li.breadcrumb-item",
         "genresContainer" : "nav[aria-label=breadcrumb]:eq(0) li.breadcrumb-item",
         "sizeContainer" : "col-item"

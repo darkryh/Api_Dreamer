@@ -1,1 +1,1 @@
-"I come first. " ++ "I come second.";
+"I come first. " + $"I come second.";

@@ -1,4 +1,5 @@
-"var event = document.createEvent('HTMLEvents'); " +
+{
+  script : "var event = document.createEvent('HTMLEvents'); " +
                 "event.initEvent('click',true,true);" +
                 "var servers = document.getElementsByClassName('playother')[0].children;" +
                 "var downloads = document.getElementsByClassName('downbtns')[0].children;" +
@@ -19,3 +20,4 @@
                 "serverList.push((download.href)); " +
                 "}" +
                 "(function() { return serverList; })();"
+}

@@ -1,4 +1,4 @@
-"var event = document.createEvent('HTMLEvents'); 
+`var event = document.createEvent('HTMLEvents'); 
                 event.initEvent('click',true,true); 
                 var servers = document.getElementsByClassName('playother')[0].children;
 		var downloads = document.getElementsByClassName("downbtns")[0].children;
@@ -20,4 +20,4 @@
 		for (var download of downloads) {
 		serverList.push((download.href));  
 		}
-                (function() { return serverList; })();"
+                (function() { return serverList; })();`

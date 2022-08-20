@@ -1,20 +1,23 @@
-"var event = document.createEvent('HTMLEvents'); "  "event.initEvent('click',true,true);" +
-                "var servers = document.getElementsByClassName('playother')[0].children;" +
-                "var downloads = document.getElementsByClassName('downbtns')[0].children;" +
-                "var serverList = [];" +
-                "function clickServer(obj) { " +
-                "obj.dispatchEvent(event); " +
-                "fakePlaying(document.getElementById('videoLoading')); " +
-                "}" +
-                "function fakePlaying(obj) {" +
-                "obj.dispatchEvent(event); " +
-                "var player = document.getElementsByClassName('embed-responsive-item')[0]; " +
-                "serverList.push(player.getAttribute('src')); " +
-                "}" +
-                "for(var server of servers) { " +
-                "clickServer(server); " +
-                "}" +
-                "for (var download of downloads) { " +
-                "serverList.push((download.href)); " +
-                "}" +
-                "(function() { return serverList; })();"
+var event = document.createEvent('HTMLEvents'); 
+                event.initEvent('click',true,true); 
+                var servers = document.getElementsByClassName('playother')[0].children;
+		var downloads = document.getElementsByClassName("downbtns")[0].children;
+                var serverList = []; 
+                 
+                function clickServer(obj) {  
+                obj.dispatchEvent(event); 
+		fakePlaying(document.getElementById('videoLoading'));
+                } 
+		function fakePlaying(obj) {
+		obj.dispatchEvent(event);  
+		var player = document.getElementsByClassName('embed-responsive-item')[0]; 
+		serverList.push(player.getAttribute('src'));  
+		}
+                
+                for(var server of servers) {  
+                clickServer(server)  
+                } 
+		for (var download of downloads) {
+		serverList.push((download.href));  
+		}
+                (function() { return serverList; })();

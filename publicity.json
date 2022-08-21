@@ -1,17 +1,17 @@
 [{
-	"id": 500,
-	"title": "¡Versión Testing!",
-	"content": "Testing Data.",
-	"web_page": "https://eadreference.blogspot.com/2022/03/dreamer.html",
-	"icon": null,
-	"cover": "https://i.ibb.co/6nfLSKL/logo-app.png",
-	"tags": ["Oficial", "Actualización", "Comunicado"]
+	"id" : 500,
+        "title" : "¡Versión 1.17 Disponible! Con GRANDES CAMBIOS.",
+        "content" : "Esta versión tiene mejoras funcionales, mejor tiempo de carga,mayor compatibilidad de datos, notificationes,un Nuevo menu de configuración y MUCHO MÁS.",
+        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
+        "icon" : null,
+        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
+        "tags" : ["Oficial","Actualización","BIG UPDATE"]
 }, {
 	"id": 501,
-	"title": "¡Versión Testing2!",
-	"content": "Testing Data2.",
-	"web_page": "https://eadreference.blogspot.com/2022/03/dreamer.html",
-	"icon": null,
-	"cover": "https://i.ibb.co/6nfLSKL/logo-app.png",
-	"tags": ["Oficial", "Actualización", "Comunicado"]
+	"title": "¡Visita Nuestro Discord!",
+	"content": "Si nos apoyas en nuestro discord, ¡GANARIAS una cuenta sin PUBLICIDAD!",
+	"web_page": "https://discord.gg/mvMfenSazJ",
+	"icon": "https://i.ibb.co/6nfLSKL/logo-app.png",
+	"cover": "https://i.blogs.es/4223f8/discord/1366_2000.jpg",
+	"tags": ["Oficial", "GRATIS", "Comunicado"]
 }]

@@ -1,10 +1,10 @@
 [{
 	"id" : 500,
-        "title" : "¡Versión 1.17 Disponible! Con GRANDES CAMBIOS.",
+        "title" : "¡Nueva Página Oficial!",
         "content" : "Esta versión tiene: mejor tiempo de carga, notificationes,un nuevo menu de configuración y mucho más.",
-        "web_page" : "https://eadreference.blogspot.com/2022/03/dreamer.html",
+        "web_page" : "https://dreamer-ead.net",
         "icon" : null,
-        "cover" : "https://i.ibb.co/6nfLSKL/logo-app.png",
+        "cover" : "https://dreamer-ead.net/",
         "tags" : ["Oficial","Actualización","BIG UPDATE"]
 }, {
 	"id": 501,

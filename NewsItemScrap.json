@@ -1,0 +1,8 @@
+{
+        "classList" : "div.col.col-md-6.col-lg-2.col-6",
+        "titleContainer" : "a",
+        "chapterCoverContainer" : "div.animes div.animeimgdiv img",
+        "chapterNumberContainer" : "div.hoverdiv div.positioning p",
+        "typeContainer" : "div.hoverdiv div.positioning button",
+        "referenceContainer" : "a"
+}

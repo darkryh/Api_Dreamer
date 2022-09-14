@@ -1,8 +1,11 @@
 {
-        "classList" : "div.col.col-md-6.col-lg-2.col-6",
-        "titleContainer" : "a",
-        "chapterCoverContainer" : "div.animes div.animeimgdiv img",
-        "chapterNumberContainer" : "div.hoverdiv div.positioning p",
-        "typeContainer" : "div.hoverdiv div.positioning button",
-        "referenceContainer" : "a"
+        "sectionContainer" : "div.news-list.dg.gg1.gt1.xs-gt2.md-gt3.xl-gt4.xl-gg2",
+        "classList" : "article.ar.por",
+        "headerContainer" : "header.ar-hd.poa.z2.pd1",
+        "titleContainer" : "h2.ar-title.white-co.mab.fz4.lg-fz5",
+        "coverFigureContainer" : "figure.im.brd1.black-bg.z1",
+        "coverContainer" : "img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image",
+        "dateContainer" : "div.ar-mt.white-co.fz3",
+        "typeContainer" : "span.typ.ttu.fwb.fz2.white-bg.primary-co.brd1.dib.pdx1.mab",
+        "referenceContainer" : "a.lnk-blk"
 }

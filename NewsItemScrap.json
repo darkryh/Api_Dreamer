@@ -1,6 +1,5 @@
 {
-        "sectionContainer" : "div.news-list.dg.gg1.gt1.xs-gt2.md-gt3.xl-gt4.xl-gg2",
-        "classList" : "article.ar.por",
+        "classList" : "div.news-list.dg.gg1.gt1.xs-gt2.md-gt3.xl-gt4.xl-gg2 article.ar.por",
         "titleContainer" : "header.ar-hd.poa.z2.pd1 h2.ar-title.white-co.mab.fz4.lg-fz5",
         "coverContainer" : "figure.im.brd1.black-bg.z1 img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image",
         "dateContainer" : "header.ar-hd.poa.z2.pd1 div.ar-mt.white-co.fz3",

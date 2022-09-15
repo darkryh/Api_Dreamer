@@ -1,11 +1,9 @@
 {
         "sectionContainer" : "div.news-list.dg.gg1.gt1.xs-gt2.md-gt3.xl-gt4.xl-gg2",
         "classList" : "article.ar.por",
-        "headerContainer" : "header.ar-hd.poa.z2.pd1",
-        "titleContainer" : "h2.ar-title.white-co.mab.fz4.lg-fz5",
-        "coverFigureContainer" : "figure.im.brd1.black-bg.z1",
-        "coverContainer" : "img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image",
-        "dateContainer" : "div.ar-mt.white-co.fz3",
-        "typeContainer" : "span.typ.ttu.fwb.fz2.white-bg.primary-co.brd1.dib.pdx1.mab",
+        "titleContainer" : "header.ar-hd.poa.z2.pd1 h2.ar-title.white-co.mab.fz4.lg-fz5",
+        "coverContainer" : "figure.im.brd1.black-bg.z1 img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image",
+        "dateContainer" : "header.ar-hd.poa.z2.pd1 div.ar-mt.white-co.fz3",
+        "typeContainer" : "header.ar-hd.poa.z2.pd1 span.typ.ttu.fwb.fz2.white-bg.primary-co.brd1.dib.pdx1.mab",
         "referenceContainer" : "a.lnk-blk"
 }

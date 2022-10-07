@@ -1,0 +1,20 @@
+[
+  {
+    "type" : "Drama",
+    "title" : "Ataque a los Titanes",
+    "cover" : "https://images5.alphacoders.com/508/508247.jpg",
+    "genres": ["Acción", "Drama", "Fantasía","Shonen","Ciencia Ficción","Fantasía","Militar","Misterio","Gore"]
+  }, 
+  {
+    "type" : "Drama",
+    "title" : "Devilman",
+    "cover" : "https://images6.alphacoders.com/915/915514.png",
+    "genres": ["Acción","Horror", "Demonios", "Horror","Sobrenatural","Dementia"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Parasyte",
+    "cover" : "https://i.pinimg.com/originals/13/6a/1b/136a1bfa750e1cf798bb2d9095c4570b.png",
+    "genres": ["Acción", "Ciencia Ficción", "Drama", "Horror", "Psicológico", "Seinen"]
+   }
+]

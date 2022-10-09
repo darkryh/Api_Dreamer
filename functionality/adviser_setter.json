@@ -96,7 +96,7 @@
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {
-    "type" : "Comedia,Romance",
+    "type" : "Romance",
     "title" : "Yahari Ore no Seishun Love Comedy wa Machigatteiru",
     "cover" : "https://images5.alphacoders.com/694/694177.png",
     "genres": ["Acción", "Ciencia Ficción"]
@@ -113,7 +113,7 @@
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {
-    "type" : "Comedia,Romance",
+    "type" : "Romance",
     "title" : "Tu Mentira en Abril",
     "cover" : "https://www.todofondos.net/wp-content/uploads/1920x1196-Su-mentira-en-abril-Wallpaper.jpg",
     "genres": ["Acción", "Ciencia Ficción"]
@@ -125,13 +125,13 @@
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {
-    "type" : "Comedia,Romance",
+    "type" : "Romance",
     "title" : "Karakai Jouzu no Takagi-san",
     "cover" : "https://genzay.com/wp-content/uploads/2022/03/teasing03bn.jpg",
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {
-    "type" : "Comedia,Romance",
+    "type" : "Romance",
     "title" : "Koroshi Ai",
     "cover" : "https://wallpapercave.com/wp/wp10964936.jpg",
     "genres": ["Acción", "Ciencia Ficción"]
@@ -143,7 +143,7 @@
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {
-    "type" : "Comedia,Romance",
+    "type" : "Romance",
     "title" : "Horimiya",
     "cover" : "https://images6.alphacoders.com/110/1105350.png",
     "genres": ["Acción", "Ciencia Ficción"]

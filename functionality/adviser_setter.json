@@ -4,5 +4,41 @@
     "title" : "Ataque a los Titanes",
     "cover" : "https://images5.alphacoders.com/508/508247.jpg",
     "genres": ["Acción", "Drama", "Fantasía","Shonen","Ciencia Ficción","Fantasía","Militar","Misterio","Gore"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Devilman",
+    "cover" : "https://images6.alphacoders.com/915/915514.png",
+    "genres": ["Acción","Horror", "Demonios", "Horror","Sobrenatural","Dementia"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Parasyte",
+    "cover" : "https://i.pinimg.com/originals/13/6a/1b/136a1bfa750e1cf798bb2d9095c4570b.png",
+    "genres": ["Acción", "Ciencia Ficción", "Drama", "Horror", "Psicológico", "Seinen"]
+   },
+  {
+    "type" : "Drama",
+    "title" : "Cowboy Bebop",
+    "cover" : "https://m.media-amazon.com/images/S/pv-target-images/37a65aa1bbb7d1660fd3a78232ba4254416a2d40cd1ffd866cd7063110c823a9._UR1920,1080_.jpg",
+    "genres": ["Acción", " Aventura", " Ciencia Ficción", "Comedia"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Re:Zero",
+    "cover" : "https://as01.epimg.net/meristation/imagenes/2021/02/18/analisis/1613687555_012754_1614072704_noticia_normal.jpg",
+    "genres": ["Drama", "Fantasía", "Psicológico" ]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Clannad",
+    "cover" : "https://images3.alphacoders.com/713/713064.png",
+    "genres": ["Comedia", "Drama", " Escolares", " Sobrenatual"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Angel Beats",
+    "cover" : "https://images3.alphacoders.com/123/123225.jpg",
+    "genres": ["Acción", "Comedia", "Ecchi","Fantasía", "Psicológico", "Drama"]
   }
 ]

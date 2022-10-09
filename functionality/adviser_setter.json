@@ -40,5 +40,82 @@
     "title" : "Angel Beats",
     "cover" : "https://images3.alphacoders.com/123/123225.jpg",
     "genres": ["Acción", "Comedia", "Ecchi","Fantasía", "Psicológico", "Drama"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Cyberpunk: Edgerunners",
+    "cover" : "https://images2.alphacoders.com/127/1272824.png",
+    "genres": ["Ciencia Ficción","Drama"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Megalo Box",
+    "cover" : "https://images6.alphacoders.com/912/thumb-1920-912647.jpg",
+    "genres": ["Acción", "Ciencia Ficción", "Deportes""Drama"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Mushoku Tensei",
+    "cover" : "https://images6.alphacoders.com/112/1128080.jpg",
+    "genres": ["Drama", "Ecchi", "Fantasía"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Berserk",
+    "cover" : "https://occ-0-32-1348.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSVBCBMJtkWK7Ydkseh3I4GSafy3dKDtBiL49XMPtLQ3TJvTiPShbSWcNCletb9rn4pJDP_65frgQRU4gaJA18wuOg3DMj6ZkTcg.jpg?r=c7b",
+    "genres": ["Acción", "Drama", "Fantasía", "Gore", "Horror", "Militar", "Sobrenatural"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Steins Gate",
+    "cover" : "https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-w8e6qr-531950-Preview.webp",
+    "genres": ["Drama","Ciencia Ficción" ]
+  },
+  {
+    "type" : "Misterio",
+    "title" : "Monster",
+    "cover" : "https://wallpapercave.com/wp/wp3084735.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Misterio",
+    "title" : "Suzumiya Haruhi no Shoushitsu",
+    "cover" : "https://wallpaperaccess.com/full/1082809.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Misterio",
+    "title" : "El Gran Farsante",
+    "cover" : "https://images7.alphacoders.com/109/thumb-1920-1097371.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Comedia",
+    "title" : "Great teacher Onizuka",
+    "cover" : "https://images4.alphacoders.com/323/thumb-1920-32376.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Yahari Ore no Seishun Love Comedy wa Machigatteiru",
+    "cover" : "https://images5.alphacoders.com/694/694177.png",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Sono Bisque Doll wa Koi wo Suru",
+    "cover" : "https://images.justwatch.com/poster/258528900/s592/sono-bisque-doll-wa-koi-wo-suru",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },{
+    "type" : "Romance",
+    "title" : "Ijiranaide, Nagatoro-san",
+    "cover" : "https://images2.alphacoders.com/114/1140588.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Tu Mentira en Abril",
+    "cover" : "https://www.todofondos.net/wp-content/uploads/1920x1196-Su-mentira-en-abril-Wallpaper.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
   }
 ]

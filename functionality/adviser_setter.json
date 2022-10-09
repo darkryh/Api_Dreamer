@@ -75,60 +75,60 @@
     "type" : "Misterio",
     "title" : "Monster",
     "cover" : "https://wallpapercave.com/wp/wp3084735.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Horror", "Misterio" ]
   },
   {
     "type" : "Misterio",
     "title" : "Suzumiya Haruhi no Shoushitsu",
     "cover" : "https://wallpaperaccess.com/full/1082809.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Ciencia Ficción", "Comedia", "Escolares", "Misterio", "sobrenatural", "Romance"]
   },
   {
     "type" : "Misterio",
     "title" : "El Gran Farsante",
     "cover" : "https://images7.alphacoders.com/109/thumb-1920-1097371.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Coomedia", "Miterio", "Psiocológico"]
   },
   {
     "type" : "Comedia",
     "title" : "Great teacher Onizuka",
     "cover" : "https://images4.alphacoders.com/323/thumb-1920-32376.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Drama", "Comedia", "Escolares", "Recuerdos de la vida"]
   },
   {
     "type" : "Romance",
     "title" : "Yahari Ore no Seishun Love Comedy wa Machigatteiru",
     "cover" : "https://images5.alphacoders.com/694/694177.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", " Drama", "Escolares", "Recuerdos de la vida", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Sono Bisque Doll wa Koi wo Suru",
     "cover" : "https://images.justwatch.com/poster/258528900/s592/sono-bisque-doll-wa-koi-wo-suru",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Recuerdos de la vida", "Romance"]
   },{
     "type" : "Romance",
     "title" : "Ijiranaide, Nagatoro-san",
     "cover" : "https://images2.alphacoders.com/114/1140588.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Recuerdos de la vida". " Romacne"]
   },
   {
     "type" : "Romance",
     "title" : "Tu Mentira en Abril",
     "cover" : "https://www.todofondos.net/wp-content/uploads/1920x1196-Su-mentira-en-abril-Wallpaper.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Drama", "Escolares", "Música", " Shonen", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
     "cover" : "https://images2.alphacoders.com/972/thumb-1920-972788.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Escolares", "Drama", "Recuerdos de la vida", "Shojo"]
   },
   {
     "type" : "Romance",
     "title" : "Karakai Jouzu no Takagi-san",
     "cover" : "https://genzay.com/wp-content/uploads/2022/03/teasing03bn.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Recuerdos de la vida", "Romance"]
   },
   {
     "type" : "Romance",
@@ -146,61 +146,61 @@
     "type" : "Romance",
     "title" : "Horimiya",
     "cover" : "https://images6.alphacoders.com/110/1105350.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Ore wo Suki nano wa Omae dake ka yo",
     "cover" : "https://wallpaperaccess.com/full/1948837.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Escolares", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Tonikaku Kawaii",
     "cover" : "https://images4.alphacoders.com/110/thumb-1920-1107773.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Shojo", "Shonen", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Tantei wa Mou, Shindeiru",
     "cover" : "https://www.justwatch.com/images/backdrop/247574559/s640/tantei-wa-mou-shindeiru",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Drama", "Misterio", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Josee to Tora to Sakana-tachi",
     "cover" : "https://images4.alphacoders.com/121/1210457.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Recuerdos de la vida", "Drama", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Kanojo, Okarishimasu",
     "cover" : "https://images7.alphacoders.com/109/thumb-1920-1097180.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Escolares", "Shonen", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Tsurezure Children",
     "cover" : "https://images5.alphacoders.com/836/thumb-1920-836170.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Escolares", "Shonen", "Romance"]
   },
   {
     "type" : "Shonen",
     "title" : "Hunter x Hunter",
     "cover" : "https://w0.peakpx.com/wallpaper/602/139/HD-wallpaper-hunter-x-hunter-gon-and-killua-3-anime.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Shonen"]
   },
   {
     "type" : "Shonen",
     "title" : "One piece",
     "cover" : "https://www.anime-internet.com/content/images/2021/11/one-piece-1.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Shonen"]
   },
   {
     "type" : "Drama",
     "title" : "Boku no hero Academia",
     "cover" : "https://images8.alphacoders.com/736/736903.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Comedia", " Escolares", "Shonen", "Sobrenatural"]
   },
   {
     "type" : "Shonen",
@@ -212,19 +212,19 @@
     "type" : "Shonen",
     "title" : "JoJo's Bizarre Adventure",
     "cover" : "https://www.hdwallpapers.in/download/jojo_bizarre_adventure_golden_wind_king_crimson_with_background_of_blue_and_black_and_texture_designs_on_sides_hd_anime-HD.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Shonen", "Demonios"]
   },
   {
     "type" : "Shonen",
     "title" : "Baki",
     "cover" : "https://my4kwallpapers.com/wp-content/uploads/2022/06/Baki-Hanma-Background-Wallpaper.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Shonen"]
   },
   {
     "type" : "Shonen",
     "title" : "Naruto",
     "cover" : "https://i0.wp.com/clickwallpapers.net/wp-content/uploads/2022/06/clickwallpapers-naruto-wallpaper-in-4k-3840x2160-img6-scaled-1.jpg?fit=2560%2C1440&ssl=1",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Comedia", "Shonen", "Artes Marciales"]
   },
   {
     "type" : "Shonen",

@@ -249,5 +249,124 @@
     "title" : "Jujutsu Kaisen",
     "cover" : "https://wallpaper.dog/large/20493162.jpg",
     "genres": ["Acción", "Sobrenatural", "Shonen", "Escolares"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Una Voz Silenciosa",
+    "cover" : "https://i.ebayimg.com/images/g/zPUAAOSwTm1dY013/s-l1600.jpg",
+    "genres": ["Drama", "Escolares", "Shojo"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Spy x Family",
+    "cover" : "https://images7.alphacoders.com/120/thumb-1920-1206753.png",
+    "genres": ["Acción", "Ciencia Ficción", "Recuerdos de la vida", "Shojo"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Lovely Complex",
+    "cover" : "https://images5.alphacoders.com/106/1061153.jpg",
+    "genres": ["Shojo", "Comedia", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Spice and Wolf",
+    "cover" : "https://images.alphacoders.com/577/57701.jpg",
+    "genres": ["Aventura", "Fantasía", "Hostórico", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Sakurasou no Pet na Kanojo",
+    "cover" : "https://wallpapercave.com/wp/wp2119961.jpg",
+    "genres": ["Comedia", "Drama", "Escolares", "Recuerdos de la vida", "Romance""]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Gotoubun no Hanayome",
+    "cover" : "https://images8.alphacoders.com/994/994676.jpg",
+    "genres": ["Escolares", "Harem", "Shojo"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Saenai Heroine no Sodatekata",
+    "cover" : "https://wallpapercave.com/wp/wp7065507.png",
+    "genres": ["Comedia", "Ecchi", "Escolares", "Harem", "Romance", "Shojo"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Kimi ni Todoke",
+    "cover" : "https://images2.alphacoders.com/228/228070.jpg",
+    "genres": ["Drama", "Shojo", "Escolares"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Re-Life",
+    "cover" : "https://wallpaperaccess.com/full/1913237.jpg",
+    "genres": ["Seinen", "Shojo"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Jaku-Chara Tomozaki-kun",
+    "cover" : "https://wallpapercave.com/wp/wp8650036.jpg",
+    "genres": ["Shojo", "Drama", "Escolares", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Aharen-san wa Hakarenai",
+    "cover" : "https://wallpapercave.com/wp/wp11033852.jpg",
+    "genres": ["Recuerdos de la vida", "Shojo", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Kami nomi zo Shiru Sekai",
+    "cover" : "https://oocentral.ca/wp-content/uploads/2018/11/2cy8w8k.jpg",
+    "genres": ["Comedia", "Harem", "Shonen", "Sobrenatural", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Ore Monogatari!!",
+    "cover" : "https://wallpaperaccess.com/full/4138025.jpg",
+    "genres": ["Comedia", "Shojo", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Kaguya-Sama",
+    "cover" : "https://images.alphacoders.com/995/995884.png",
+    "genres": ["Comedia", "Drama", "Ecchi", "Escolares", "Recuerdos de la vida", "Seinen", "Romance"]
+  },
+  {
+    "type" : "Shojo",
+    "title" : "Sailor Moon",
+    "cover" : "https://wallpaperaccess.com/full/2884653.jpg",
+    "genres": ["Demonios", "MAgia", "Shojo", "Romance"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Record of Ragnarok",
+    "cover" : "https://images2.alphacoders.com/115/1154072.jpg",
+    "genres": ["Acción", "Sobrenatural", "Drama", "Seinen"]
+  },
+  {
+    "type" : "Seinen",
+    "title" : "Vinland Saga",
+    "cover" : "https://i.imgur.com/Jry0Djbh.jpg",
+    "genres": ["Acción", "Aventura", "Drama", "Histórico", "Seinen"]
+  },
+  {
+    "type" : "Seinen",
+    "title" : "Gantz",
+    "cover" : "https://wallpapercave.com/wp/jP5kBLJ.jpg",
+    "genres": ["Acción", "Ciencia Ficción", "Horro", "Sobrenatural", "Drama", "Ecchi"]
+  {, 
+    "type" : "Seinen",
+    "title" : "Koi wa Ameagari no You ni",
+    "cover" : "https://wallpaperaccess.com/full/5823952.jpg",
+    "genres": ["Romance", "Seinen"]
+  },
+  {
+    "type" : "Seinen",
+    "title" : "Kotoura-san",
+    "cover" : "https://wallpapercave.com/wp/wp4044003.jpg",
+    "genres": ["Comedia", "Drama", "Escolares", "Romance", "Seinen"]
   }
 ]

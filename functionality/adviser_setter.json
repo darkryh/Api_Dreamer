@@ -581,12 +581,6 @@
   },
   {
     "type" : "Psicologico",
-    "title" : "Cowboy Bebop",
-    "cover" : "https://m.media-amazon.com/images/S/pv-target-images/37a65aa1bbb7d1660fd3a78232ba4254416a2d40cd1ffd866cd7063110c823a9._UR1920,1080_.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
-  },
-  {
-    "type" : "Psicologico",
     "title" : "Nana",
     "cover" : "https://wallpaperaccess.com/full/2218575.jpg",
     "genres": ["Acción", "Ciencia Ficción"]
@@ -607,12 +601,6 @@
     "type" : "Psicologico",
     "title" : "Paprika",
     "cover" : "https://www.looper.com/img/gallery/the-ending-of-paprika-explained/l-intro-1614614891.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
-  },
-  {
-    "type" : "Psicologico",
-    "title" : "Devilman",
-    "cover" : "https://images6.alphacoders.com/915/915514.png",
     "genres": ["Acción", "Ciencia Ficción"]
   },
   {

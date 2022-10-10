@@ -129,5 +129,125 @@
     "title" : "Karakai Jouzu no Takagi-san",
     "cover" : "https://genzay.com/wp-content/uploads/2022/03/teasing03bn.jpg",
     "genres": ["Comedia", "Recuerdos de la vida", "Romance"]
+  },
+   {
+    "type" : "Romance",
+    "title" : "Koroshi Ai",
+    "cover" : "https://wallpapercave.com/wp/wp10964936.jpg",
+    "genres": ["Acción", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Kanojo mo Kanojo",
+    "cover" : "https://wallpaperaccess.com/full/6499911.jpg",
+    "genres": ["Comedia", "Escolares","Recuerdos de la vida", "Shonen", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Horimiya",
+    "cover" : "https://images6.alphacoders.com/110/1105350.png",
+    "genres": ["Comedia", "Romance", "Recuerdos de la vida", "Shonen"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Ore wo Suki nano wa Omae dake ka yo",
+    "cover" : "https://wallpaperaccess.com/full/1948837.jpg",
+    "genres": ["Comedia", "Escolares", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Tonikaku Kawaii",
+    "cover" : "https://images4.alphacoders.com/110/thumb-1920-1107773.jpg",
+    "genres": ["Comedia", "Shojo", "Shonen", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Tantei wa Mou, Shindeiru",
+    "cover" : "https://www.justwatch.com/images/backdrop/247574559/s640/tantei-wa-mou-shindeiru",
+    "genres": ["Comedia", "Drama", "Misterio", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Josee to Tora to Sakana-tachi",
+    "cover" : "https://images4.alphacoders.com/121/1210457.jpg",
+    "genres": ["Recuerdos de la vida", "Drama", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Kanojo, Okarishimasu",
+    "cover" : "https://images7.alphacoders.com/109/thumb-1920-1097180.png",
+    "genres": ["Comedia", "Escolares", "Shonen", "Romance"]
+  },
+  {
+    "type" : "Romance",
+    "title" : "Tsurezure Children",
+    "cover" : "https://images5.alphacoders.com/836/thumb-1920-836170.png",
+    "genres": ["Comedia", "Escolares", "Shonen", "Romance"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Hunter x Hunter",
+    "cover" : "https://w0.peakpx.com/wallpaper/602/139/HD-wallpaper-hunter-x-hunter-gon-and-killua-3-anime.jpg",
+    "genres": ["Acción", "Aventura", "Shonen"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "One piece",
+    "cover" : "https://www.anime-internet.com/content/images/2021/11/one-piece-1.png",
+    "genres": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Shonen"]
+  },
+  {
+    "type" : "Drama",
+    "title" : "Boku no hero Academia",
+    "cover" : "https://images8.alphacoders.com/736/736903.jpg",
+    "genres": ["Acción", "Comedia", " Escolares", "Shonen", "Sobrenatural"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Demon Slayer",
+    "cover" : "https://wallpaper.dog/large/20471320.jpg",
+    "genres": ["Acción", "Ciencia Ficción"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "JoJo's Bizarre Adventure",
+    "cover" : "https://www.hdwallpapers.in/download/jojo_bizarre_adventure_golden_wind_king_crimson_with_background_of_blue_and_black_and_texture_designs_on_sides_hd_anime-HD.jpg",
+    "genres": ["Acción", "Aventura", "Shonen", "Demonios"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Baki",
+    "cover" : "https://my4kwallpapers.com/wp-content/uploads/2022/06/Baki-Hanma-Background-Wallpaper.jpg",
+    "genres": ["Acción", "Shonen"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Naruto",
+    "cover" : "https://i0.wp.com/clickwallpapers.net/wp-content/uploads/2022/06/clickwallpapers-naruto-wallpaper-in-4k-3840x2160-img6-scaled-1.jpg?fit=2560%2C1440&ssl=1",
+    "genres": ["Acción", "Aventura", "Comedia", "Shonen", "Artes Marciales"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Dragon ball",
+    "cover" : "https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-422d8g-589379-Preview.webp",
+    "genres": ["Acción", "Aventura", "Comedia", "Fantasía", "Lucha", "Shonen"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Bleach",
+    "cover" : "https://wallpaperteg.com/wp-content/uploads/2021/06/You-Can-Download-Latest-Gallery-Of-Hd-Bleach-Wallpaper-Photo.jpg",
+    "genres": ["Acción", "Comedia", "Shonen", "Sobrenatural"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Yu gi Oh",
+    "cover" : "https://i.pinimg.com/originals/0a/64/5d/0a645d14ed86c32d7fc209f8b57f65c6.jpg",
+    "genres": ["Acción", "Comdia", "Fantasía", "Shonen"]
+  },
+  {
+    "type" : "Shonen",
+    "title" : "Jujutsu Kaisen",
+    "cover" : "https://wallpaper.dog/large/20493162.jpg",
+    "genres": ["Acción", "Sobrenatural", "Shonen", "Escolares"]
   }
 ]

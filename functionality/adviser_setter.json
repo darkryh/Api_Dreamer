@@ -134,19 +134,19 @@
     "type" : "Romance",
     "title" : "Koroshi Ai",
     "cover" : "https://wallpapercave.com/wp/wp10964936.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Kanojo mo Kanojo",
     "cover" : "https://wallpaperaccess.com/full/6499911.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Escolares","Recuerdos de la vida", "Shonen", "Romance"]
   },
   {
     "type" : "Romance",
     "title" : "Horimiya",
     "cover" : "https://images6.alphacoders.com/110/1105350.png",
-    "genres": ["Acción", "Romance"]
+    "genres": ["Comedia", "Romance", "Recuerdos de la vida", "Shonen"]
   },
   {
     "type" : "Romance",
@@ -278,7 +278,7 @@
     "type" : "Shojo",
     "title" : "Sakurasou no Pet na Kanojo",
     "cover" : "https://wallpapercave.com/wp/wp2119961.jpg",
-    "genres": ["Comedia", "Drama", "Escolares", Recuerdos de la vida", "Romance""]
+    "genres": ["Comedia", "Drama", "Escolares", "Recuerdos de la vida", "Romance""]
   },
   {
     "type" : "Shojo",
@@ -367,109 +367,109 @@
     "type" : "Seinen",
     "title" : "Kotoura-san",
     "cover" : "https://wallpapercave.com/wp/wp4044003.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Drama", "Escolares", "Romance", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Golden Kamuy",
     "cover" : "https://wallpapercave.com/wp/wp4237330.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Aventura", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Ajin",
     "cover" : "https://c4.wallpaperflare.com/wallpaper/565/340/21/anime-anime-boys-picture-in-picture-ajin-hd-wallpaper-preview.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Horror", "Misterio","Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Kuzu no Honkai",
     "cover" : "https://images6.alphacoders.com/776/thumb-1920-776106.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Drama", "Ecchi", "Escolares", "Romance", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Kingdom",
     "cover" : "https://images2.alphacoders.com/107/1071183.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Histórico", "Militar", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Rainbow: Nisha Rokubou no Shichinin",
     "cover" : "https://wallpaperaccess.com/full/123709.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Drama", "Histórico". "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Ghost in the Shell",
     "cover" : "https://cdn.flickeringmyth.com/wp-content/uploads/2020/09/ghost-in-the-shell-1280.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Ciencia Ficción", "Mecha", "Psicológico", "Seinen", "Polida"]
   },
   {
     "type" : "Seinen",
     "title" : "Black Lagoon",
     "cover" : "https://wallpapercave.com/wp/wp3198967.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Gleipnir",
     "cover" : "https://images.alphacoders.com/107/thumb-1920-1071157.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Misterio". "Sobrenatural", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Mushishi",
     "cover" : "https://www.todofondos.net/wp-content/uploads/1600x1200-Mushishi-Galeria-de-papel-tapiz-y-escaneo.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Aventura", "Recuerdos de la vida", "Sobrenatural", "Seinen"]
   },
   {
     "type" : "Seinen",
     "title" : "Kakushigoto",
     "cover" : "https://wallpaperaccess.com/full/5681874.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Recuerdos de la vida", " Shonen"]
   },
   {
     "type" : "Sobrenatural",
     "title" : "Overlord",
     "cover" : "https://images8.alphacoders.com/934/934002.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Fantasía"]
   },
   {
     "type" : "Deportes",
     "title" : "Espiritu de lucha",
     "cover" : "https://images7.alphacoders.com/471/471364.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Deportes", "Drama"]
   },
   {
     "type" : "Deportes",
     "title" : "Super Campeones",
     "cover" : "https://i.blogs.es/04025b/capitan_tsubasa_2002/1366_2000.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Acción", "Deportes", "Shonen"]
   },
   {
     "type" : "Deportes",
     "title" : "Slam Dunk",
     "cover" : "https://wallpaper.dog/large/20479733.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Deportes", "Drama", " Escolares"]
   },
   {
     "type" : "Deportes",
     "title" : "Ballroom e Youkoso",
     "cover" : "https://images4.alphacoders.com/836/thumb-1920-836130.png",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Deortes", "Escolares", "Shojo"]
   },
   {
     "type" : "Deportes",
     "title" : "Free!",
     "cover" : "https://images6.alphacoders.com/518/thumb-1920-518865.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Comedia", "Deportes", "Escolares", "Recuerdos de la vida"]
   },
   {
     "type" : "Deportes",
     "title" : "Haikyu!!",
     "cover" : "https://www.pixelstalk.net/wp-content/uploads/images5/Aesthetic-Haikyuu-HD-Wallpaper-Computer.jpg",
-    "genres": ["Acción", "Ciencia Ficción"]
+    "genres": ["Drama", "Comedia", "Deportes"]
   },
   {
     "type" : "Deportes",

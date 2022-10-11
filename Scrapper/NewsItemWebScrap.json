@@ -1,0 +1,13 @@
+{
+  "headerContainer" :"section.single.por.z1.pdb4",
+  "titleContainer" : "article.ar.lg.sngl.pdt4 header.ar-hd.por.z2.pdl3 h1.ar-title.white-co.mab1.pdt.fz5.lg-fz7.xl-fz8.mar",
+  "typeContainer" : "article.ar.lg.sngl.pdt4 header.ar-hd.por.z2.pdl3 p.mab0 span.typ.ttu.fwb.fz2.white-bg.primary-co.brd1.dib.pdx1.mab.mar",
+  "authorContainer" : "article.ar.lg.sngl.pdt4 header.ar-hd.por.z2.pdl3 div.ar-mt.white-co span.fwb.op7.mar2",
+  "dateContainer" : "article.ar.lg.sngl.pdt4 header.ar-hd.por.z2.pdl3 div.ar-mt.white-co span.op5.mar2",
+  "coverContainer" : "article.ar.lg.sngl.pdt4 figure.im.black-bg.z-1 img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image",
+  "bodyContainer" : "section.bx.pdy2 div.entry.xl-fz5",
+  "footerContainer" :"section.bx.bx-thr.dfx.fxw.pdt3.mab3.pdb1 div.dfx.aic.mab1.sm-fg1.sm-mar1",
+  "photoAuthorContainer" : "figure.avatar.mar2.ast img.brdc",
+  "authorFooter" : "div.fg1 a.fz5.primary-co.fwb",
+  "authorWords" : "div.fg1 p.mab0"
+}

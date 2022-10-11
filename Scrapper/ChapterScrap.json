@@ -1,0 +1,7 @@
+{
+        "classList" : "col-item",
+        "titleContainer" : "div.chapterdetails h1",
+        "coverContainer" : "div.animedtlsmain div.animeimgdiv img",
+        "numberContainer" : "null",
+        "referenceContainer" : "a"
+}

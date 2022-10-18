@@ -2,6 +2,7 @@
         "coverPhotoContainer" : "div.heromain div.herobg img",
         "profilePhotoContainer" : "div.chapterpic img",
         "titleContainer" : "div.heromain h1",
+        "titleAlternativeContainer" : "div.heromain div.acontain div.row div.col-lg-12.col-md-9 div.chapterdetails span.alterno",
         "ratingContainer" : "div.heromain div.heroslidico",
         "stateContainer" : "div.heromain div.butns button.btn1",
         "descriptionContainer" : "div.heromain p",

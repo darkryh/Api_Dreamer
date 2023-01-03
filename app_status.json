@@ -1,8 +1,8 @@
 {
         "id" : 1,
         "version" : 1.14,
-        "minVersion" : 1.14,
-        "lastVersion" : 1.21,
+        "minVersion" : 1.30,
+        "lastVersion" : 1.30,
         "resumedVersionNotes" : null,
-        "downloadReference" : "https://dreamer-ead.net/resources/downloads/DreamerBeta1.21.apk"
+        "downloadReference" : "https://dreamer-ead.net/resources/downloads/DreamerRelease1.30.apk"
 }

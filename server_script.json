@@ -1,1 +1,0 @@
-"var servers = document.getElementsByClassName('playother')[0].children; var downloads = document.getElementsByClassName('downbtns')[0].children; var serverList = []; for(var server of servers) { serverList.push(atob(server.dataset.player)); } for (var download of downloads) { serverList.push((download.href)); } (function() { return serverList; })();"

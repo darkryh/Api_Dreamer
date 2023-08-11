@@ -3,6 +3,6 @@
         "version" : 1.4,
         "minVersion" : 1.4,
         "lastVersion" : 1.4,
-        "resumedVersionNotes" : "un total cambio de mejoras:\n \n-nuevo rediseño de la aplicación.\n \nmodo automatico habilitado por defecto(la aplicación escojera el servidor).\n \n-optimización genereales del reproductor. \n \n-nuevos servidores implementados streamWish, doodstream, entre otros. \n \n-optimización de servidores 1fichier, mediafire, okru, y más. \n \n-nuevo modo de seguimiento a las series que consumes. \n \noptimización general de dependencias 2x más rapido.",
+        "resumedVersionNotes" : "Un total cambio de mejoras:\n \n-nuevo rediseño de la aplicación.\n \n-modo automatico habilitado por defecto(la aplicación escojera el servidor).\n \n-optimización genereales del reproductor. \n \n-nuevos servidores implementados streamWish, doodstream, entre otros. \n \n-optimización de servidores 1fichier, mediafire, okru, y más. \n \n-nuevo modo de seguimiento a las series que consumes. \n \noptimización general de dependencias 2x más rapido.",
         "downloadReference" : "https://dreamer-ead.net/resources/downloads/DreamerRelease1.40.apk"
 }

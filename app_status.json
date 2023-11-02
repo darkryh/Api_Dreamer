@@ -1,11 +1,11 @@
 {
         "version" : 1.4,
         "minVersion" : 1.4,
-        "lastVersion" : 1.92,
-        "resumedVersionNotes" : "Nuevas mejoras:\n \n- Implementación de nuevas funcionalidades en el reproductor nativo.\n \n- Nuevos Servidor StreamWish (Efectivo).\n \n- Bugfix del servidor mediafire, (para funcionar tenias que ejecutar el servidor 2 veces) arreglado.\n \n- arreglado bug de perfomance al utilizar el login de discord.\n \n- bug fix de performance al iniciar la aplicación\n \n- bug fix de configuración el bloqueo de contenido\n \n- bug fix de notificaciones no notificaban a los usuarios y crasheo el entrar en configuraciones\n \n- implementado un profile preview para ver las series de sugerencias al reproducir un anime\n \n- adblocker nativo implementado en los animes que se reproducen en web, nuevos web serves añadidos\n \n- optimizaciones generales y correcciones de diseño",
-        "downloadReference" : "https://1fichier.com/?ggrpecddp0dhq6bulxjl",
+        "lastVersion" : 1.921,
+        "resumedVersionNotes" : "Nuevas mejoras:\n \n- Bug fix de crasheo al actualizar\n \n- Implementación de nuevas funcionalidades en el reproductor nativo.\n \n- Nuevos Servidor StreamWish (Efectivo).\n \n- Bugfix del servidor mediafire, (para funcionar tenias que ejecutar el servidor 2 veces) arreglado.\n \n- arreglado bug de perfomance al utilizar el login de discord.\n \n- bug fix de performance al iniciar la aplicación\n \n- bug fix de configuración el bloqueo de contenido\n \n- bug fix de notificaciones no notificaban a los usuarios y crasheo el entrar en configuraciones\n \n- implementado un profile preview para ver las series de sugerencias al reproducir un anime\n \n- adblocker nativo implementado en los animes que se reproducen en web, nuevos web serves añadidos\n \n- optimizaciones generales y correcciones de diseño",
+        "downloadReference" : "https://1fichier.com/?z4ts0rk3jp35ckw6kzat",
         "update": {
                 "title": "Dreamer",
-                "version": 1.92
+                "version": 1.921
         }
 }
